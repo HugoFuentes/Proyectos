@@ -1,0 +1,27 @@
+body {
+font-family:Verdana,sans-serif;font-size:0.9em;
+background-color: cyan;
+}
+header {
+
+margin:5px;margin-bottom:15px;padding:8px;
+font-family: Arial, Helvetica, sans-serif;
+color:blue
+
+}
+section {
+	margin:5px;margin-bottom:15px;padding:8px;
+font-family: Arial, Helvetica, sans-serif;
+color: darkgreen;
+}
+
+nav ul  {
+    margin:0;padding:0; 
+	background-color: green;
+}
+nav ul li {
+    display:inline; margin:15px; 
+}
+nav li a { color: #fff;
+text-decoration: none;
+}
